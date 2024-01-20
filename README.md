@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Saroj ...</h1>
-<h3 align="center">I am a Master's Student at Technical University of Chemnitz..</h3>
+<h3 align="center">I am currently studying Master's degree in Web Engineering at Technical University of Chemnitz..</h3>
 
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
