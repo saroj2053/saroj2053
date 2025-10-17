@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently doing my Master's in Web Engineering at Technical University of Chemnitz, Germany.
 
-- :telescope: I have worked as a Software Engineer and contributed to frontend and backend for building web applications.
+- :telescope: I am a passionate Software Engineer with hands-on experience in building full-stack web applications, contributing to both frontend and backend systems.
 
-- :seedling: Exploring more aspects of programming.
+- :seedling: Seeking opportunities to explore unreached aspects of programming.
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40" />&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
